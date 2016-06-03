@@ -2,7 +2,7 @@
 
 Simple boost client server example:
 
-$ make
-$ ./server.exe &
-$ ./client.exe
-$
+    $ make
+    $ ./server.exe &
+    $ ./client.exe
+    $
